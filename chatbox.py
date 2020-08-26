@@ -43,7 +43,7 @@ while True:
     elif  ("twitter" in p):
         print("Opening Twitter")
         os.system("chrome https://twitter.com/_Shalini_Rana_")
-
+    
     elif  ("gmail" in p):
         print("Opening Gmail.....")
         os.system("chrome www.gmail.com")
@@ -56,7 +56,7 @@ while True:
         print("Opening Facebook.....")
         os.system("chrome https://www.facebook.com/avantika.rana.562/")
 
-     elif ("instagram" in p):
+    elif ("instagram" in p):
         print("Opening Instagram.....")
         os.system("chrome https://www.instagram.com/shalinirana___/")
 
